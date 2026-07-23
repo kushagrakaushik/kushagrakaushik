@@ -1,8 +1,6 @@
 # 💫 About Me:
 
 <ul>
-  <li>🚀 Building <b>NextRole</b> — a modern career exploration platform with live job integration, personalized dashboards, and interactive role visualization.</li>
-
   <li>⚛️ Currently sharpening my frontend skills with <b>React</b>, UI architecture, and scalable component design.</li>
 
   <li>🧠 Learning next: <b>MongoDB</b>, backend systems, and diving deeper into <b>AI/ML fundamentals</b> to build smarter, data-driven products.</li>
